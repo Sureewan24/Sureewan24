@@ -1,4 +1,4 @@
-[![image](https://resource.nationtv.tv/uploads/images/md/2021/10/q1BeK5h8n7GjDy4mK6sA.jpg]https://resource.nationtv.tv/uploads/images/md/2021/10/q1BeK5h8n7GjDy4mK6sA.jpg)
+[![image](https://i.ibb.co/d28GZhC/Screenshot-2022-07-30-153734.png)](#)
 ### Hi there 👋 Nice to see u.
 
 - 😄 My name is: Sureewan Oumcharoen
