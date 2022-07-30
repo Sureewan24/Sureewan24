@@ -1,4 +1,4 @@
-[![image](https://i.ibb.co/d28GZhC/Screenshot-2022-07-30-153734.png)](#)
+[![image](https://user-images.githubusercontent.com/109278047/181886200-65a013e7-19cb-4544-b8b4-5f8bcc1f9e4d.png)](#)
 ### Hi there 👋 Nice to see u.
 
 - 😄 My name is: Sureewan Oumcharoen
