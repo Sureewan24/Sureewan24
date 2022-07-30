@@ -1,9 +1,10 @@
 ### Hi there 👋 Nice to see u.
 
-- 😄 My name is: yourname ...
-- ⚡ Student id: ...
+- 😄 My name is:Sureewan Oumcharoen
+- ⚡ Student id: 63367148
 - 🔭 I'm currently studying on Faculty of Engineering.
-
+- 👨‍🎓 Career interest : Security engineer
+- 💻 Specail interest in computer engineering : coding 😎
 ## Developer Tech
 
 ### Frameworks 
@@ -24,9 +25,7 @@
 
 ### Languages 
 <p align="left">
-<a href="#">
-    <img src="svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
-  </a> 
+ 
 
 <a href="#">
     <img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
