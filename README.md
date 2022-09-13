@@ -4,7 +4,7 @@
 - 😄 My name is: Sureewan Oumcharoen
 - ⚡ Student id: 63367148
 - 🔭 I'm currently studying on Faculty of Engineering.
-- 👨‍🎓 Career interest : Security engineer
+- 👨‍🎓 Career interest : Software Tester
 - 💻 Specail interest in computer engineering : Coding 😎
 ## Developer Tech
 
